@@ -33,7 +33,7 @@ The main features of LPC2148 include the following.
 
 ## Procedure:
  1. click on STM 32 CUBE IDE, the following screen will appear 
- ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
+<img height=20% width=49% src="https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png">
 
  2. click on FILE, click on new stm 32 project 
  ![image](https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3.png)
@@ -43,7 +43,7 @@ The main features of LPC2148 include the following.
 ![image](https://user-images.githubusercontent.com/36288975/226189280-ed5dcf1d-dd8d-43ae-815d-491085f4863b.png)
 
 4.select the program name 
-![image](https://user-images.githubusercontent.com/36288975/226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711.png)
+<img height=20% width=49% src="https://user-images.githubusercontent.com/36288975/226189316-09832a30-4d1a-4d4f-b8ad-2dc28f137711.png">
 
 
 5. corresponding ioc file will be generated automatically 
@@ -153,9 +153,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  
- ![image](https://github.com/BharathCSEIOT/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/122793480/a562531d-aec1-4752-8375-26e80123ce85)
+<img height=20% width=49% src="https://github.com/BharathCSEIOT/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/122793480/a562531d-aec1-4752-8375-26e80123ce85">
 
- ![image](https://github.com/BharathCSEIOT/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/122793480/862f94db-84fb-4093-a4a7-9a57813be384)
+<img height=20% width=49% src="https://github.com/BharathCSEIOT/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/122793480/0736d098-32d6-4cac-8bf7-e974d7ea8d97">
 
  
 ## Result :
